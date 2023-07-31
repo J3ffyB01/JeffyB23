@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JeffyB23  
 - 👀 I’m interested in network and cloud security
 - 🌱 I’m currently working on my Net+ certification 
-- 💞️ I’m looking to collaborate on various security related projects
+- 💞️ I’m looking to collaborate on various security-related and Python projects to help teach me
 - 📫 you can reach me at my email jeffery.bays44@outlook.com
 
 <!---
